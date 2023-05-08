@@ -1,0 +1,88 @@
+
+
+
+{
+  
+    "title": "Around You",
+    "total_row_span": 5,
+    "total_column_span":3,
+    "spannableItemList": [
+    
+    {
+    "media_type": "image",
+    "media_source": "https://s3.ca-central-1.amazonaws.com/codingwithmitch/media/VideoPlayerRecyclerView/ Sending+Data+to+a+New+Activity+with+Intent+Extras.png",
+    "title": "MERCH NAME 3",
+    "deeplink": "",
+    "row_span": 1,
+    "column_span": 1
+    },
+    {
+    "media_type": "image",
+    "media_source": "https://s3.ca-central-1.amazonaws.com/codingwithmitch/media/VideoPlayerRecyclerView/ Sending+Data+to+a+New+Activity+with+Intent+Extras.png",
+    "title": "MERCH NAME 1",
+    "deeplink": "",
+    "row_span": 1,
+    "column_span": 1
+    },
+    {
+    "media_type": "video",
+    "media_source":
+    "https://s3.ca-central-1.amazonaws.com/codingwithmitch/media/VideoPlayerRecyclerView/Sending+Data+to+a+New+Activity+with+Intent+Extras.mp4","title": "VIDEO TITLE",
+    "deeplink": "",
+    "row_span": 1,
+    "column_span": 1
+    },
+    {
+    "media_type": "image",
+    "media_source": "https://s3.ca-central-1.amazonaws.com/codingwithmitch/media/VideoPlayerRecyclerView/ Sending+Data+to+a+New+Activity+with+Intent+Extras.png",
+    "title": "MERCH NAME 2",
+    "deeplink": "",
+    "row_span": 1,
+    "column_span": 1
+    },
+    {
+    "media_type": "image",
+    "media_source":
+    "https://s3.ca-central-1.amazonaws.com/codingwithmitch/media/VideoPlayerRecyclerView/Sending+Data+to+a+New+Activity+with+Intent+Extras.png",
+    "title": "MERCH NAME 2",
+    "deeplink": "",
+    
+    "row_span": 2,
+    "column_span": 2
+    },
+    {
+    "media_type": "image",
+    "media_source":
+    "https://s3.ca-central-1.amazonaws.com/codingwithmitch/media/VideoPlayerRecyclerView/Sending+Data+to+a+New+Activity+with+Intent+Extras.png",
+    "title": "MERCH NAME 2",
+    "deeplink": "",
+    "row_span": 1,
+    "column_span": 1
+    },
+    {
+    "media_type": "image",
+    "media_source":
+    "https://s3.ca-central-1.amazonaws.com/codingwithmitch/media/VideoPlayerRecyclerView/Sending+Data+to+a+New+Activity+with+Intent+Extras.png",
+    "title": "MERCH NAME 2",
+    "deeplink": "",
+    "row_span": 1,
+    "column_span": 3
+    },
+    {
+    "media_type": "image",
+    "media_source": "hhttps://s3.ca-central-1.amazonaws.com/codingwithmitch/media/VideoPlayerRecyclerView/ Sending+Data+to+a+New+Activity+with+Intent+Extras.png",
+    "title": "MERCH NAME 2",
+    "deeplink": "",
+    "row_span": 1,
+    "column_span": 2
+    },
+    {
+    "media_type": "image",
+    "media_source": "https://s3.ca-central-1.amazonaws.com/codingwithmitch/media/VideoPlayerRecyclerView/ Sending+Data+to+a+New+Activity+with+Intent+Extras.png",
+    "title": "MERCH NAME 2",
+    "deeplink": "",
+    "row_span": 1,
+    "column_span": 1
+    }
+    ]
+    }
