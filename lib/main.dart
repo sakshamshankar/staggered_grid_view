@@ -9,13 +9,19 @@ void main() {
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
+  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: const Text('Staggered Grid View'),
+    return MaterialApp(
+      title: 'Staggered Grid',
+      theme: ThemeData(
+        primarySwatch: Colors.blue,
       ),
-      body: WallPage(),
+      // home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: WallPage(),
     );
   }
 }
+
+
+
